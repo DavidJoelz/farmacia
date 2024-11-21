@@ -11,7 +11,7 @@
 				<table class="table">
 					<thead>
 						<tr>
-							<th scope="col" class="text-center">CI</th>
+							<th scope="col" class="text-center">Codigo</th>
 							<th scope="col" class="text-center">Farmacia</th>
 							<th scope="col" class="text-center">Nombre</th>
 							<th scope="col" class="text-center">Apellido</th>
@@ -75,7 +75,7 @@
 					<table class="table">
 						<thead>
 							<tr>
-								<th scope="col" class="text-center">CI</th>
+								<th scope="col" class="text-center">Codigo</th>
 								<th scope="col" class="text-center">Nombre</th>
 								<th scope="col" class="text-center">Apellido</th>
 								<th scope="col" class="text-center">Telefono</th>

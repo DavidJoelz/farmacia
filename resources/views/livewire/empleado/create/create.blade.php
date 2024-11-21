@@ -35,7 +35,7 @@
 					@if($cargo == 'pasante')
 					<div>
 						<div class="text-center">
-							<h4 class="h4">Informacion de Pasantia</h4>
+							<h4 class="h4">Informacion de Pasante/Practicante</h4>
 						</div>
 						@include('livewire.empleado.create.pasante')
 					</div>

@@ -7,9 +7,9 @@
 				<span class="icon-bar"></span></button>
 				<a class="navbar-brand" href="{{ url('/') }}">
 					<span>
-						<img src="{{ url('img/logo.png') }}" style="width: 10%">
+						<img src="{{ url('img/farmacias.svg') }}" style="width: 125px; height: auto; margin-bottom: 10px;">
 					</span>
-					<span>Farma</span>Segura
+					<span> </span> 
 				</a>
 				<ul class="nav navbar-top-links navbar-right">
 					<li style="margin-right: 2em; margin-top: 1em;">

@@ -16,7 +16,7 @@
 					</div>
 
 					<div class="mb-3">
-						<label for="" class="form-label">Monodroga</label>
+						<label for="" class="form-label">Nombre</label>
 						<input id="monodroga" wire:model="monodroga" type="text" class="form-control">
 						<span class="text-danger">
 						    @error('monodroga') {{ $message }}   @enderror

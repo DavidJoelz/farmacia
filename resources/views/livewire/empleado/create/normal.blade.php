@@ -1,6 +1,6 @@
 {{-- Cedula --}}
 <div class="mb-3">
-	<label class="form-label col-4">CI</label>
+	<label class="form-label col-4">Codigo</label>
 	<input type="number" class="form-control col-8" wire:model.defer="ci" >
 </div>
 

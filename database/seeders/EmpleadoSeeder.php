@@ -26,16 +26,16 @@ class EmpleadoSeeder extends Seeder
 			'cargo' => 'admin',
 		]);
 
-		$margarita = Empleado::factory()->create([
+		$david = Empleado::factory()->create([
 			'ci' => 2,
-			'nombre' => 'Margarita',
-			'apellido' => 'Garcia',
+			'nombre' => 'David',
+			'apellido' => 'Parizaca',
 		]);
 
-		$adrian = Empleado::factory()->create([
+		$jackfer = Empleado::factory()->create([
 			'ci' => 3,
-			'nombre' => 'Adrian',
-			'apellido' => 'Moreno',
+			'nombre' => 'Jackfer',
+			'apellido' => 'Zevallos',
 		]);
 
 		$farma = Empleado::factory()->create([
@@ -58,18 +58,6 @@ class EmpleadoSeeder extends Seeder
 			'nombre' => '',
 			'apellido' => 'analista',
 			'cargo' => 'analista',
-		]);
-
-		$delguis = Empleado::factory()->create([
-			'ci' => 9,
-			'nombre' => 'Delguis',
-			'apellido' => 'Ferman',
-		]);
-
-		$daniel = Empleado::factory()->create([
-			'ci' => 10,
-			'nombre' => 'Daniel',
-			'apellido' => 'Porras',
 		]);
 
 

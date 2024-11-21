@@ -1,6 +1,6 @@
 {{-- CI Responsable --}}
 <div class="mb-3">
-	<label class="form-label">CI</label>
+	<label class="form-label">Codigo</label>
 	<input type="number" class="form-control" wire:model.defer="ci_r" >
 </div>
 

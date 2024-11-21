@@ -13,10 +13,10 @@
 					<table class="table" id="tmedicamento">
 						<thead>
 							<tr>
-								<th scope="col" class="text-center">Monodroga</th>
+								<th scope="col" class="text-center">Nombre</th>
 								<th scope="col" class="text-center">Presentacion </th>
 								<th scope="col" class="text-center">Accion</th>
-								<th scope="col" class="text-center">Precio</th>
+								<th scope="col" class="text-center">Precio S/.</th>
 								<th scope="col" class="text-center"></th>
 							</tr>
 						</thead>
